@@ -17,11 +17,11 @@ def getReward(action):
 		#If any sensor is active: points = 5 - (1.0 - distance to the wall [from 0.0 to 1.0] * 60.0)
             points = 5.0-(1.0-sm.distfront)*60.0
         else:
-		#If action = Do nothing. Points = 20, this prevents the car the car from spining all the time and also accelerates the learning. 
+		#If action = Do nothing. Points = 20, this prevents the car from spining all the time and also accelerates the learning. 
             if (action == 0):
                 points = 20.0 
     else:
-		#If the car crash, huge penalty. 
+		#If the car crashes, huge penalty. 
         points = -3000.0
     
     return points
