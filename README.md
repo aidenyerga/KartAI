@@ -15,6 +15,6 @@ Prepackaged versions are also available in the [releases section](https://github
 ## Documentation
 Documentation is available in the [releases section](https://github.com/eritzyg/KartAI/releases) with the corresponding release.
 
-## Demostration
+## Demostrantion
 
-![Alt Text](https://github.com/ikergarcia1996/KartAI/blob/master/KartAI/data/PCGlMsY%20-%20Imgur.gif)
+![Demo](https://github.com/eritzyg/KartAI/raw/master/demo.gif)
