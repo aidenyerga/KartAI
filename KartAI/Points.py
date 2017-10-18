@@ -1,4 +1,3 @@
-import Player as player
 import StateManager as sm
     
 def init():
