@@ -24,4 +24,3 @@ def getReward(action):
         points = -3000.0
     
     return points
-    
