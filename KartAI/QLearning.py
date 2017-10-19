@@ -67,7 +67,7 @@ def qlearn():
         fstate = calcstate()
         faction = select_action(fstate, False)
         current_state_value = q[current_state][action]
-        q[current_state][action] = (1.0-a)*q[current_state][action] + a*(reward++y*q[fstate][faction])
+        q[current_state][action] = (1.0-a)*q[current_state][action] + a*(reward+y*q[fstate][faction])
         #print("ESTADO :" + str(current_state) + " Q= " + str(current_state_value) + " ACTUALIZADO CON " + str(q[current_state][action]))
         #print("--------------------")
     
