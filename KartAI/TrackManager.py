@@ -1,3 +1,7 @@
+# KartAI https://github.com/eritzyg/KartAI/
+# Copyright (c) 2017 Eritz Yerga Gutierrez and Iker García Ferrero
+# MIT License https://github.com/eritzyg/KartAI/blob/master/LICENSE
+
 import Player as player
 import Render as render
 import StateManager as sm
