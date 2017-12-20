@@ -20,5 +20,5 @@ Documentation is available in the [releases section](https://github.com/eritzyg/
 ![Demo](https://github.com/eritzyg/KartAI/raw/master/demo.gif)
 
 ## Youtube video
-
+Click on the image if you want to watch it:
 [![KartAI video](https://img.youtube.com/vi/ztNBn-5JHTs/0.jpg)](https://www.youtube.com/watch?v=ztNBn-5JHTs "KartAI youtube video")
