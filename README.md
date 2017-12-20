@@ -20,7 +20,7 @@ Documentation is available in the [releases section](https://github.com/eritzyg/
 ![Demo](https://github.com/ikergarcia1996/Self-Driving-Car-Reinforcement-Learning/blob/master/DemoImages/demo.gif?raw=true)
 
 ## Youtube video
-The video shows the first iterations when the car is not able to get very far, and the result when It has been training for a long time.  
+The video shows the first iterations when the car is not able to get very far, and the results when It has been training for a long time.  
 Click on the image if you want to watch it:
 
 [![KartAI video](https://github.com/ikergarcia1996/Self-Driving-Car-Reinforcement-Learning/blob/master/DemoImages/demo.PNG?raw=true)](https://www.youtube.com/watch?v=ztNBn-5JHTs "KartAI youtube video")
