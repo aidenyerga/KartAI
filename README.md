@@ -21,4 +21,4 @@ Documentation is available in the [releases section](https://github.com/eritzyg/
 
 ## Youtube video
 
-[![KartAI video](https://img.youtube.com/vi/https://youtu.be/ztNBn-5JHTs/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ztNBn-5JHTs)
+[![KartAI video](https://img.youtube.com/vi/ztNBn-5JHTs/0.jpg)](https://www.youtube.com/watch?v=ztNBn-5JHTs "KartAI youtube video")
