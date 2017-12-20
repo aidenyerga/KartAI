@@ -17,9 +17,9 @@ Documentation is available in the [releases section](https://github.com/eritzyg/
 
 ## Demonstration
 
-![Demo](https://github.com/eritzyg/KartAI/raw/master/demo.gif)
+![Demo](https://github.com/ikergarcia1996/Self-Driving-Car-Reinforcement-Learning/blob/master/DemoImages/demo.gif?raw=true)
 
 ## Youtube video
 Click on the image if you want to watch it:
 
-[![KartAI video](https://img.youtube.com/vi/ztNBn-5JHTs/0.jpg)](https://www.youtube.com/watch?v=ztNBn-5JHTs "KartAI youtube video")
+[![KartAI video](https://github.com/ikergarcia1996/Self-Driving-Car-Reinforcement-Learning/blob/master/DemoImages/demo.PNG?raw=true)](https://www.youtube.com/watch?v=ztNBn-5JHTs "KartAI youtube video")
