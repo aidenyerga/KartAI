@@ -18,3 +18,7 @@ Documentation is available in the [releases section](https://github.com/eritzyg/
 ## Demonstration
 
 ![Demo](https://github.com/eritzyg/KartAI/raw/master/demo.gif)
+
+## Youtube video
+
+[![KartAI video](https://img.youtube.com/vi/https://youtu.be/ztNBn-5JHTs/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ztNBn-5JHTs)
